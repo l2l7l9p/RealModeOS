@@ -1,0 +1,3 @@
+megs: 1
+floppya: 1_44=shoot.img, status=inserted
+boot: floppy
