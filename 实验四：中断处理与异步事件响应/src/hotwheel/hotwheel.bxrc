@@ -1,0 +1,3 @@
+megs: 1
+floppya: 1_44=hotwheel.img, status=inserted
+boot: floppy
