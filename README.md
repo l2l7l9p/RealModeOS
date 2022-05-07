@@ -1,3 +1,3 @@
 # 原型操作系统进化
 
-https://blog.csdn.net/rzO_KQP_Orz/article/details/105935701
+http://kqp.world/%E3%80%90%E6%93%8D%E7%BB%9F%E5%AE%9E%E9%AA%8C%E3%80%91%E5%8E%9F%E5%9E%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%8C%96%EF%BC%88%E6%97%A0%E9%99%90%E6%96%AD%E6%9B%B4%EF%BC%89/
